@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/home/howdy/.local/share/virtualenvs/airbnb-clone-zOhbIMTe/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.linting.flake8Args": ["--max-line-length=88"]
+}
